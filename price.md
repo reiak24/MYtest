@@ -8,7 +8,7 @@ To use the price calculator, simply enter the price, quantity, and tax rate in t
 
 For example, if the price of the item is $10, the quantity is 2, and the tax rate is 10%, the total price including tax would be:
 
-$10 * 2 * 1.1 = $22
+$10 * 2 * 1.1 = $10
 
 So the "Result" field would display $22. 
 - 123
